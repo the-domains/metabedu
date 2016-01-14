@@ -1,0 +1,28 @@
+name: Metabedu
+favicon: null
+layout_spectrum: 0.75009162328206
+typography_spectrum: 0.4667399520985782
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8731411008629948
+  lightness: 0.9886262370273471
+  saturation: 0.2408569511026144
+  rhythmicContrast: 0.23135321121662855
+purpose: []
