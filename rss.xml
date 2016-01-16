@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Metabedu]]></title>
-        <description><![CDATA[Metabedu]]></description>
+        <title><![CDATA[Buddha and the Quantum Activist Write Koans]]></title>
+        <description><![CDATA[Buddha and the Quantum Activist Write Koans]]></description>
         <link>https://thegrid.ai/metabedu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jan 2016 06:09:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jan 2016 06:19:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/metabedu/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/metabedu/0a24980e-1ac3-4c16-8355-6c48a1259a72/index.html</link>
             <guid isPermaLink="false">0a24980e-1ac3-4c16-8355-6c48a1259a72</guid>
             <pubDate>Sat, 16 Jan 2016 06:09:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Metabedu logo and signature]]></title>
-            <description><![CDATA[<article><h1>Metabedu logo and signature</h1><p>Please consider joining Metabedu community, explore it .  There is a mission and ideology there, or read them HERE .</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/54bc6e3340175dcac6e89183553917432ff3706a.png"></article>]]></description>
-            <link>https://thegrid.ai/metabedu/5a5395c7-e88e-47e4-824a-bae96aeac174/index.html</link>
-            <guid isPermaLink="false">5a5395c7-e88e-47e4-824a-bae96aeac174</guid>
-            <pubDate>Thu, 14 Jan 2016 16:01:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
