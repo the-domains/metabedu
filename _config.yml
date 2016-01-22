@@ -22,8 +22,8 @@ color:
     - '#ababab'
     - '#3b7922'
     - '#c51420'
-  brandStrength: 0.6875
-  lightness: 0.75
-  saturation: 0.3125
-  rhythmicContrast: 0.5
+  brandStrength: 0
+  lightness: 0.5625
+  saturation: 0
+  rhythmicContrast: 0.75
 purpose: []
