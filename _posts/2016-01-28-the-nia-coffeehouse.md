@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Jazz Poetry Spoken Word Free Speech Coffeehouse Culture
-datePublished: '2016-01-28T15:06:13.665Z'
-dateModified: '2016-01-28T07:26:38.039Z'
+datePublished: '2016-01-28T21:17:23.922Z'
+dateModified: '2016-01-28T21:17:20.604Z'
 title: "\_The Nia Coffeehouse\_"
 author: []
 sourcePath: _posts/2016-01-28-the-nia-coffeehouse.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: the-nia-coffeehouse/index.html
-_type: WebPage
+_type: Article
 
 ---
 # The Nia Coffeehouse ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/116f93576f008acef1d94d091ae834ecca217166.jpg)
