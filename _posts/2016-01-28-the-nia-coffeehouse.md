@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Jazz Poetry Spoken Word Free Speech Coffeehouse Culture
-datePublished: '2016-01-28T07:21:46.688Z'
-dateModified: '2016-01-28T06:38:26.028Z'
+datePublished: '2016-01-28T15:06:13.665Z'
+dateModified: '2016-01-28T07:26:38.039Z'
 title: "\_The Nia Coffeehouse\_"
 author: []
+sourcePath: _posts/2016-01-28-the-nia-coffeehouse.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-28-the-nia-coffeehouse.md
-published: true
 url: the-nia-coffeehouse/index.html
 _type: WebPage
 
