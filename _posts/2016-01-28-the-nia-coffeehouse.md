@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: Jazz Poetry Spoken Word Free Speech Coffeehouse Culture
-datePublished: '2016-01-30T22:00:19.975Z'
+datePublished: '2016-01-30T22:00:20.028Z'
 dateModified: '2016-01-30T21:58:12.767Z'
 title: "\_The Nia Coffeehouse\_"
 author: []
